@@ -1,0 +1,8 @@
+﻿  Header.cpp
+  main.cpp
+  Pixel.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 222 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Project 2.vcxproj -> C:\Users\Jason\OneDrive - University of Florida\Documents\Computer Science Study\1 UF BSE\COP3503C\2 Code\Projects\Project 2\ImageProcessing\src\x64\Release\Project 2.exe

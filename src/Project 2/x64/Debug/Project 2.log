@@ -1,0 +1,20 @@
+﻿  Image.cpp
+C:\Users\Jason\OneDrive - University of Florida\Documents\Computer Science Study\1 UF BSE\COP3503C\2 Code\Projects\Project 2\ImageProcessing\src\Pixel.h(44,34): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+  (compiling source file 'Image.cpp')
+  
+C:\Users\Jason\OneDrive - University of Florida\Documents\Computer Science Study\1 UF BSE\COP3503C\2 Code\Projects\Project 2\ImageProcessing\src\Pixel.h(48,35): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+  (compiling source file 'Image.cpp')
+  
+C:\Users\Jason\OneDrive - University of Florida\Documents\Computer Science Study\1 UF BSE\COP3503C\2 Code\Projects\Project 2\ImageProcessing\src\Pixel.h(52,33): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+  (compiling source file 'Image.cpp')
+  
+C:\Users\Jason\OneDrive - University of Florida\Documents\Computer Science Study\1 UF BSE\COP3503C\2 Code\Projects\Project 2\ImageProcessing\src\Pixel.h(62,42): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+  (compiling source file 'Image.cpp')
+  
+C:\Users\Jason\OneDrive - University of Florida\Documents\Computer Science Study\1 UF BSE\COP3503C\2 Code\Projects\Project 2\ImageProcessing\src\Pixel.h(66,43): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+  (compiling source file 'Image.cpp')
+  
+C:\Users\Jason\OneDrive - University of Florida\Documents\Computer Science Study\1 UF BSE\COP3503C\2 Code\Projects\Project 2\ImageProcessing\src\Pixel.h(70,41): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+  (compiling source file 'Image.cpp')
+  
+  Project 2.vcxproj -> C:\Users\Jason\OneDrive - University of Florida\Documents\Computer Science Study\1 UF BSE\COP3503C\2 Code\Projects\Project 2\ImageProcessing\src\x64\Debug\Project 2.exe
